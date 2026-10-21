@@ -1,18 +1,11 @@
-## Getting Started
+# Exercícios de Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório com exercícios introdutórios de programação em Java. Cada programa lê valores da entrada padrão, realiza um cálculo e exibe o resultado no console.
 
-## Folder Structure
+## Exercícios
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+| Classe | Descrição |
+|---|---|
+| `ValoresInteiros` | Lê dois números inteiros e mostra a soma. |
+| `CalculoDaDiferenca` | Lê quatro números inteiros e calcula `A * B - C * D`. |
+| `AreaDoCirculo` | Lê o raio de um círculo e calcula sua área usando π = 3,14159. |
